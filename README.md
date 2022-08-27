@@ -21,12 +21,12 @@ Here are some ideas to get you started:-->
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- 🔭 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🔭 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- :telescope: I’m learning Software Engineering and contributing to open source. 
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks, hackerrank and read tech articles.
+- :zap: In my free time, I solve problems on GeeksforGeeks, hackerrank , leetcodes, codewars and read tech articles.
 <div align="center">
   <h1>tools and technologies </h1>
   <br>
